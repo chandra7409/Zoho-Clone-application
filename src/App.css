@@ -1,0 +1,368 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-image: url("https://static.zohocdn.com/iam/v2/components/images/bg.49756b7c711696d95133fa95451f8e13.svg");
+}
+.leftdiv{
+  width: 580px;
+  height: 700px;
+  position: relative;
+  float: left;
+  background-image: url("https://media.istockphoto.com/id/1294603953/vector/abstract-black-stripes-diagonal-background.jpg?s=612x612&w=0&k=20&c=nQZHTk-o97cNVqWnUe8BJg0A5jQG0tqylquzbt9YtcQ=");
+  color: aliceblue;
+  background-attachment: fixed;
+}
+.rightdiv{
+  width: 800px;
+  float: right;
+  background-attachment: scroll;
+}
+#logo{
+  width: 140px;
+  height: 90px;
+
+}
+
+.mid-imge{
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-left: 200px;
+  margin-top: 150px;
+ 
+ 
+}
+
+#mid-img{
+  margin: auto;
+  width: 140px;
+  height: 140px;
+}
+.para,p{
+  text-align: center;
+  justify-content: center;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p1{
+  text-align: left;
+  padding-top: 100px;
+  font-size: 30px;
+  font-weight: 600;
+  padding-right:150px;
+  margin-bottom: 150px;
+}
+.form5,input[type=text]{
+  width: 550px;
+  height: 50px;
+  margin-top: 20px;
+  outline: none;
+}
+::placeholder{
+  font-variant-caps: normal;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+#btn5{
+width: 550px;
+height: 50px;
+background-color: rgb(238, 27, 27);
+}
+.head1{
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 500;
+  float: right;
+}
+.head1,ul,li{
+  display: inline;
+  margin-bottom: 40px;
+}
+
+.mainSignin{
+  width: 600px;
+  height: 700px;
+}
+
+.navbar{
+  width: 100%;
+  height: auto;
+}
+.left1{
+  width: 380px;
+  height: 700px;
+  position: relative;
+  float: left;
+  background-color: rgb(184, 173, 173);
+  background-attachment: fixed;
+}
+.right1{
+  width: 1100px;
+  height: 1200px;
+  float: right;
+}
+
+.divnavbar{
+  width: 1100px;
+  height: 50px;
+  margin-left: 400px;
+}
+.inlinebtn{
+  display: inline;
+  font-size: 18px;
+  margin-top: 5px;
+  width: 120px;
+
+}
+.inlebtn2{
+  display: inline;
+  text-align: end;
+  margin-left: 600px;
+  font-size: 18px;
+  padding: 5px;
+  margin-top: 5px;
+  width: 120px;
+}
+.homenavright{
+  float: right;
+  display: flex;
+  padding-top: 20px;
+  border-radius: 25px;
+}
+.contain{
+  width: 900px;
+  height: 600px;
+  margin: auto;
+  margin-top: 100px;
+  border: 2px solid rgb(178, 167, 167);
+  padding-left: 30px;
+}
+#cardimg{
+  width: 150px;
+  height: 60px;
+}
+
+.card{
+  padding: 30px;
+  border: 5px solid red;
+}
+.form2{
+  margin-top: 10px;
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#logincarsd{
+  background-color: aliceblue;
+}
+.footerSection{
+  width: 900px;
+  height: 200px;
+  
+}
+.footerSection,h5{
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  justify-self: center;
+}
+
+#btn{
+  width: 130px;
+  height: 40px;
+  background-color: rgb(79, 185, 166);
+  text-align: center;
+  justify-content: center;
+  margin-left: 90px;
+  border-radius: 20px;
+  
+}
+/* 
+ */
+ .threecards3{
+margin-left: 400px;
+ }
+.navbar-brand,#loohozoho{
+  width: 100px;
+  height: 36px;
+}
+.nav-item{
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 500;
+  padding: 5px;
+  color: rgb(31, 30, 30);
+} 
+#logoheight{
+  height: 54px;
+}
+#secodnavbarupper{
+  margin-bottom: 40px;
+}
+#secondimg{
+  width: 120px;
+  height: 50px;
+  margin-left: 200px;
+}
+#dropdownMenu2{
+  cursor: pointer;
+  padding: 20px;
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+}
+.headingmain{
+  text-align: center;
+  justify-content: center;
+  font-size: 65px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  color: black;
+}
+.headingsecond{
+  text-align: center;
+  justify-content: center;
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 500;
+  color: rgb(58, 55, 55);
+}
+.midbutton{
+  margin: auto;
+  margin-top: 40px;
+}
+.midbtnleft{
+  margin: auto;
+  margin-left: 400px;
+  height: 60px;
+  width: 200px;
+  background-color: red;
+  font-weight: 500;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: aliceblue;
+}
+.midbtnright{
+  margin-left:50px;
+  height: 60px;
+  width: 200px;
+  background-color: aliceblue;
+  font-weight: 500;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#miImage1{
+  width: 270px;
+  height: 400px;
+}
+.client-section{
+width: 100%;
+height: 200px;
+margin-top: 70px;
+/* background-color: rgb(176, 163, 145); */
+}
+ul,li{
+  list-style: none;
+  display: inline;
+  padding-left: 30px;
+  padding-top: 40px;
+}
+.onlymob{
+  text-align: center;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+#bigcantainer{
+  width: 100%;
+  height: auto;
+  background-color:#435ef9;
+  padding-top: 30px;
+}
+.cardhero{
+  text-align: left;
+  justify-content: left;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+}
+#homecards1{
+  margin-top: 200px;
+}
+.line1{
+  width: 100%;
+  height: 10px;
+  color: blueviolet;
+  background-blend-mode: multiply;
+}
+#imagecardcircle{
+  width: 300px;
+  height: 350px;
+  border-radius: 50%;
+  margin-left: 100px;
+}
+.pimage{
+  text-align: left;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: aliceblue;
+}
+.underliner{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  border-bottom: 4px solid rgb(245, 235, 235);
+  width: 120px;
+  color: aliceblue;
+}
+.pimage1{
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: rgb(34, 35, 36);
+}
+.underliner1{
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  border-bottom: 4px solid rgb(17, 52, 225);
+  width: 220px;
+  color: rgb(8, 118, 214);
+  margin-left: 250px;
+}
+#singlerow1{
+width: 100%;
+height: 400px;
+background-color: rgba(201, 197, 89, 0.852);
+}
+#singlerow{
+  text-align: center;
+  justify-content: center;
+margin-top: 130px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+font-size: 50px;
+}
+#signbtn{
+  width: 210px;
+  height: 65px;
+  background-color: rgb(216, 49, 49);
+  text-align: center;
+  margin-left: 700px;
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+
+}
+.navbarSection{
+  width: 100%;
+  height: 60px;
+  background-attachment: fixed;
+}
